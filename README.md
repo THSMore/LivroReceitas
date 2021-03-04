@@ -4,4 +4,5 @@ Olá, bem vindo ao meu livro de receitas :handshake:
 
 - Torta Holandesa :chocolate_bar: 
 - Bolo :cake:
+- Creme de confeitero :pie:
 - 
